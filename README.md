@@ -24,3 +24,9 @@
 * 能够实时更新用户订单，并进行订单配送。
 * 构建本地服务器，能够跟用户进行通讯。
 * 能够察看用户订单的详细内容。
+
+#### 源码: [GourmetCoffee](https://github.com/happylindz/TakeawaySystem-design/)
+#### 如果有任何不明白的地方，欢迎向我发issue。  
+
+###截图：
+
