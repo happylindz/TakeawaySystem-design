@@ -28,5 +28,24 @@
 #### 源码: [GourmetCoffee](https://github.com/happylindz/TakeawaySystem-design/)
 #### 如果有任何不明白的地方，欢迎向我发issue。  
 
-###截图：
+###截图： 
 
+#### 客户端:
+用户通过输入手机号和验证码登陆
+![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/1.png) 
+
+
+用户可根据左边的菜单信息挑选商品
+![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/2.png)
+
+用户确认购物车信息并填入个人信息
+![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/3.png)
+
+用户有需求可与卖家通讯
+![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/4.png)
+
+确认订单 打印订单信息
+![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/5.png)
+
+管理员登陆界面
+![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/6.png)
