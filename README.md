@@ -44,8 +44,10 @@
 用户有需求可与卖家通讯
 ![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/4.png)
 
-确认订单 打印订单信息
+确认订单 打印订单信息  
+
 ![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/5.png)
 
 管理员登陆界面
+
 ![img](https://raw.githubusercontent.com/happylindz/TakeawaySystem-design/master/ShotScreen/6.png)
