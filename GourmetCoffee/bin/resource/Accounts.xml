@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Accounts>
+    <account>
+        <id>alvin</id>
+        <password>20145012</password>
+    </account>
+    <account>
+    	<id>viho</id>
+    	<password>123456</password></account>
+</Accounts>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productStore>
+<Coffee code="A001">
+<name>Latte</name>
+<price>8.5</price>
+<temperature>high</temperature>
+<origin>American</origin>
+</Coffee>
+<Coffee code="A002">
+<name>Fancy</name>
+<price>12.4</price>
+<temperature>low</temperature>
+<origin>Canada</origin>
+</Coffee>
+<Coffee code="A003">
+<name>Mocha</name>
+<price>12.9</price>
+<temperature>normal</temperature>
+<origin>China</origin>
+</Coffee>
+<Coffee code="A004">
+<name>Espresso</name>
+<price>18.5</price>
+<temperature>high</temperature>
+<origin>China</origin>
+</Coffee>
+<Coffee code="A005">
+<name>Cappuccino</name>
+<price>8</price>
+<temperature>high</temperature>
+<origin>Indian</origin>
+</Coffee>
+<Coffee code="A006">
+<name>Americano</name>
+<price>15.0</price>
+<temperature>high</temperature>
+<origin>Italy</origin>
+</Coffee>
+<Coffee code="A007">
+<name>Chocolate</name>
+<price>9.5</price>
+<temperature>low</temperature>
+<origin>China</origin>
+</Coffee>
+<Coffee code="A008">
+<name>Flat</name>
+<price>6.5</price>
+<temperature>high</temperature>
+<origin>Singapo</origin>
+</Coffee>
+<Coffee code="A009">
+<name>Matcha</name>
+<price>12.7</price>
+<temperature>low</temperature>
+<origin>China</origin>
+</Coffee>
+<Coffee code="A009">
+<name>Vanilla</name>
+<price>12.7</price>
+<temperature>normal</temperature>
+<origin>Brazil</origin>
+</Coffee>
+<TeaMilk code="B001">
+<name>Caramel</name>
+<price>7.77</price>
+<sweetness>false</sweetness>
+</TeaMilk>
+<TeaMilk code="B002">
+<name>Banana</name>
+<price>15.7</price>
+<sweetness>false</sweetness>
+</TeaMilk>
+<TeaMilk code="B003">
+<name>Orange</name>
+<price>6</price>
+<sweetness>true</sweetness>
+</TeaMilk>
+<TeaMilk code="B004">
+<name>Mango</name>
+<price>7.65</price>
+<sweetness>false</sweetness>
+</TeaMilk>
+<TeaMilk code="B005">
+<name>Blueberry</name>
+<price>5.5</price>
+<sweetness>true</sweetness>
+</TeaMilk>
+<TeaMilk code="B006">
+<name>Cocoa</name>
+<price>9.9</price>
+<sweetness>true</sweetness>
+</TeaMilk>
+</productStore>

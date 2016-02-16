@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sale>
+<Order date="2015-11-15 14:08:00" name="林东洲" dorm="十舍B区307" tel="13234045130" cost="124.2">
+<Matcha>
+<price>12.7</price>
+<quantity>2</quantity>
+</Matcha>
+<Banana>
+<price>15.7</price>
+<quantity>4</quantity>
+</Banana>
+<Blueberry>
+<price>5.5</price>
+<quantity>5</quantity>
+</Blueberry>
+<Latte>
+<price>8.5</price>
+<quantity>1</quantity>
+</Latte>
+</Order>
+<Order date="2015-11-15 14:09:12" name="marry" dorm="一舍A区202" tel="15006033108" cost="76.0">
+<Banana>
+<price>15.7</price>
+<quantity>1</quantity>
+</Banana>
+<Americano>
+<price>15.0</price>
+<quantity>3</quantity>
+</Americano>
+<Mango>
+<price>7.65</price>
+<quantity>2</quantity>
+</Mango>
+</Order>
+<Order date="2015-11-15 14:38:33" name="" dorm="十舍B区407" tel="15006033108" cost="27.5">
+<Cocoa>
+<price>9.9</price>
+<quantity>2</quantity>
+</Cocoa>
+<Mango>
+<price>7.65</price>
+<quantity>1</quantity>
+</Mango>
+</Order>
+<Order date="2015-11-15 14:38:39" name="ok" dorm="十舍B区407" tel="15006033108" cost="27.5">
+<Cocoa>
+<price>9.9</price>
+<quantity>2</quantity>
+</Cocoa>
+<Mango>
+<price>7.65</price>
+<quantity>1</quantity>
+</Mango>
+</Order>
+<Order date="2015-11-15 15:44:33" name="alvin" dorm="CK07" tel="13234045130" cost="71.1">
+<Vanilla>
+<price>12.7</price>
+<quantity>2</quantity>
+</Vanilla>
+<Banana>
+<price>15.7</price>
+<quantity>1</quantity>
+</Banana>
+<Americano>
+<price>15.0</price>
+<quantity>2</quantity>
+</Americano>
+</Order>
+<Order date="2015-11-15 22:07:20" name="" dorm="ewr" tel="13131313133" cost=".0" />
+</Sale>
